@@ -1,0 +1,13 @@
+{
+  "name": "Tiny Games Template",
+  "author": "C0mplexity",
+  "description": "Edit game.json to change these details",
+  "icon": "./icon.png",
+  "thumbnail": "./thumbnail.png",
+  "socials": [
+    "https://github.com/C0mplexity0"
+  ],
+
+  "appRoot": "./app",
+  "webRoot": "./web"
+}
